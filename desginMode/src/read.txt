@@ -1,0 +1,9 @@
+创建型模式
+ 学习地址：https://blog.csdn.net/zhangerqing/article/details/8194653
+    factoryMethod   工厂方法模式
+    singleton       单利模式
+    Builder         建造者模式
+    Prototype       原型模式
+
+结构型模
+ 学习地址：https://blog.csdn.net/zhangerqing/article/details/8239539
